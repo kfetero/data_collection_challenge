@@ -5,3 +5,5 @@ For this challenge the following websites were consulted
 https://www.w3schools.com/python/
 
 https://realpython.com/beautiful-soup-web-scraper-python/#extract-text-from-html-elements
+
+https://pandas.pydata.org/docs/user_guide/visualization.html#visualization-formatting
